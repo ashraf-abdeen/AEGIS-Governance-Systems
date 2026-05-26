@@ -1,0 +1,13 @@
+{
+  "source_package": "ZENODO_FINAL_SOURCE_MATCHED_READY_FOR_CERTIFICATION.zip",
+  "generated_on": "2026-05-24",
+  "archive_sha256": "eda422f7db7fadefcadde9b343a9b837d5fe712af26c8e96d8ba38500cb328cc",
+  "total_files_in_archive": 42,
+  "main_works_count": 18,
+  "metadata_files_count": 18,
+  "expected_structure": "4 commercial books + 4 scientific books + 1 foundational paper + 9 research papers = 18 records",
+  "identity": "مهندس اشرف السيد احمد حسن عابدين | Eng. Ashraf El-Sayed Ahmed Hassan Abdeen",
+  "saytco_identity_check": "Verified: SAYTCO identity is consistently used in the referenced final package and in this hash-record package.",
+  "duplicate_identity_check": "Verified: no repeated SAYTCO / SAYTCO expression was found.",
+  "manifest_validation": "Verified: archive hash, full manifest, 18 works manifest, and 18 metadata hashes match the final Zenodo package."
+}
