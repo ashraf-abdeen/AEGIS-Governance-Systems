@@ -51,3 +51,33 @@ The AEGIS / SAYTCO ecosystem develops a unified scientific architecture for:
 ## Research Infrastructure
 
 This repository acts as the canonical infrastructure hub for the AEGIS Governance Systems ecosystem and links the research identity, DOI archival structure, governance frameworks, and future computational governance development layers.
+---
+
+# Research Integrity & Verification
+
+The AEGIS Governance Systems ecosystem maintains a public cryptographic verification infrastructure for canonical scientific releases.
+
+## Verification Resources
+
+- HASH_RECORDS infrastructure
+- SHA256 validation manifests
+- Canonical release audit records
+- DOI-linked verification layers
+
+## Integrity Scope
+
+The verification layer supports:
+
+- Canonical scientific books
+- Canonical scientific papers
+- DOI archival consistency
+- Long-term preservation integrity
+- Tamper-evidence validation
+
+## Canonical Identity Links
+
+- ORCID: https://orcid.org/0009-0002-9364-3912
+- GitHub: https://github.com/ashraf-abdeen
+- Google Scholar: https://scholar.google.com/citations?hl=ar&user=YF_5SRMAAAAJ
+- Zenodo: https://zenodo.org
+- SSRN: https://ssrn.com/abstract=6665018
